@@ -1,4 +1,4 @@
-server:
-  port: 3355
+good:
+  name: 3355
 config:
   info: "my name is liudehua 2"
