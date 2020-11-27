@@ -1,1 +1,4 @@
-dev
+server:
+  port: 3355
+config:
+  info:"my name is liudehua"
